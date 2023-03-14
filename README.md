@@ -6,7 +6,7 @@ See [Feature_search_video.mov](Feature_search_video.mov) for 20-sec video of too
 
 ## Demo
 
-See [InteractiveDemo.ipynb](InteractiveDemo.ipynb) for a self-contained ipynb notebook with a demo (requires downloading ImageNet validation images locally).
+See [InteractiveDemo.ipynb](InteractiveDemo.ipynb) for a self-contained ipynb demo notebook (requires downloading ImageNet validation images locally; instructions included in notebook).
 
 ## Code
 
